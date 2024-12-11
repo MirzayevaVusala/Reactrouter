@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reactrouter.git/static/css/main.9299d192.css",
+    "main.js": "/Reactrouter.git/static/js/main.5a3b2984.js",
+    "index.html": "/Reactrouter.git/index.html",
+    "main.9299d192.css.map": "/Reactrouter.git/static/css/main.9299d192.css.map",
+    "main.5a3b2984.js.map": "/Reactrouter.git/static/js/main.5a3b2984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9299d192.css",
+    "static/js/main.5a3b2984.js"
+  ]
+}
